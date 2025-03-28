@@ -1,7 +1,10 @@
 # datavalley_portfolio
 # Portfolio Website
 
-![Portfolio Screenshot](./screenshot.png)
+![Portfolio Screenshot]
+![image](https://github.com/user-attachments/assets/c5f13d97-9a37-4b85-a408-23b08edf7d12)
+
+
 
 A responsive portfolio website showcasing my skills, projects, and contact information as a web developer.
 
